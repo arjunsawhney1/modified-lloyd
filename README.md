@@ -1,3 +1,4 @@
-# same_cluster_querying
-Updated K-means clustering algorithm with same cluster queries. Implemented algorithm through image segmentation.
+# K-means Clustering using Same Cluster Queries
+An updated K-means clustering algorithm using same cluster queries. 
+Implemented updated algorithm in image segmentation.
 Read project report for writeup
