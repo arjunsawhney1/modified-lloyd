@@ -1,4 +1,4 @@
 # K-means Clustering using Same Cluster Queries
-An updated K-means clustering algorithm using same cluster queries. 
-Implemented updated algorithm in image segmentation.
+Updated lloyd's algorithm using same cluster queries for k-means clustering. 
+Implemented new algorithm in image segmentation application.
 Read project report for writeup
